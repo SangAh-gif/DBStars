@@ -1418,3 +1418,537 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 [2024.12.20-06.35.57:918][606]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.12.20-06.35.57:918][606]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2024.12.20-06.35.57:918][606]AssetCheck: /Game/ODH/BP_PLayer Validating asset
+[2024.12.20-06.37.14:472][949]LogDerivedDataCache: C:/Users/MSI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.20-06.40.43:607][634]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ODH/IA_MouseMove.IA_MouseMove
+[2024.12.20-06.40.48:823][901]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 329.470154
+[2024.12.20-06.40.49:072][916]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-06.40.49:072][916]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 329.702820, Update Interval: 301.807312
+[2024.12.20-06.40.56:783][379]LogSlate: Window 'IA_MouseMove' being destroyed
+[2024.12.20-06.40.56:786][379]LogSlate: Window 'IA_MouseMove' being destroyed
+[2024.12.20-06.41.03:567][753]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2024.12.20-06.41.03:578][753]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2024.12.20-06.41.03:591][754]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2024.12.20-06.41.51:864][638]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_
+[2024.12.20-06.41.51:865][638]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2024.12.20-06.42.26:831][782]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ODH/IA_MouseMove.IA_MouseMove
+[2024.12.20-06.42.45:441][454]LogSlate: Window 'IA_MouseMove' being destroyed
+[2024.12.20-06.42.45:445][454]LogSlate: Window 'IA_MouseMove' being destroyed
+[2024.12.20-06.42.46:295][504]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ODH/IMC_.IMC_
+[2024.12.20-06.43.32:648][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.20-06.43.32:734][256]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ODH/IMC_] ([1] browsable assets)...
+[2024.12.20-06.43.32:734][256]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODH/IMC_]
+[2024.12.20-06.43.32:734][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODH/IMC_" FILE="../../../../../../Unreal/Content/ODH/IMC_.uasset" SILENT=true
+[2024.12.20-06.43.32:735][256]LogSavePackage: Moving output files for package: /Game/ODH/IMC_
+[2024.12.20-06.43.32:735][256]LogSavePackage: Moving '../../../../../../Unreal/Saved/IMC_10D13D0B4E77FBCB36A74DA76863A1DE.tmp' to '../../../../../../Unreal/Content/ODH/IMC_.uasset'
+[2024.12.20-06.43.32:743][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.674 ms (total: 312.608 ms)
+[2024.12.20-06.43.32:869][256]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.20-06.43.32:869][256]LogContentValidation: Enabled validators:
+[2024.12.20-06.43.32:869][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.20-06.43.32:869][256]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.20-06.43.32:869][256]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.20-06.43.32:869][256]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.20-06.43.32:869][256]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.20-06.43.32:869][256]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.20-06.43.32:870][256]AssetCheck: /Game/ODH/IMC_ Validating asset
+[2024.12.20-06.43.32:870][256]AssetCheck: Error: [AssetLog] C:\Unreal\Content\ODH\IMC_.uasset: A mapping cannot have an empty input action!
+[2024.12.20-06.43.39:117][609]LogSlate: Window 'Message Log' being destroyed
+[2024.12.20-06.43.39:125][609]LogSlate: Window 'Message Log' being destroyed
+[2024.12.20-06.43.39:788][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.20-06.43.39:873][649]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ODH/IMC_] ([1] browsable assets)...
+[2024.12.20-06.43.39:873][649]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODH/IMC_]
+[2024.12.20-06.43.39:873][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODH/IMC_" FILE="../../../../../../Unreal/Content/ODH/IMC_.uasset" SILENT=true
+[2024.12.20-06.43.39:874][649]LogSavePackage: Moving output files for package: /Game/ODH/IMC_
+[2024.12.20-06.43.39:875][649]LogSavePackage: Moving '../../../../../../Unreal/Saved/IMC_FD4627334DD2E8585E41748E3935BA65.tmp' to '../../../../../../Unreal/Content/ODH/IMC_.uasset'
+[2024.12.20-06.43.39:884][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.257 ms (total: 407.866 ms)
+[2024.12.20-06.43.40:025][649]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.20-06.43.40:025][649]LogContentValidation: Enabled validators:
+[2024.12.20-06.43.40:025][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.20-06.43.40:025][649]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.20-06.43.40:025][649]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.20-06.43.40:025][649]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.20-06.43.40:025][649]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.20-06.43.40:025][649]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.20-06.43.40:025][649]AssetCheck: /Game/ODH/IMC_ Validating asset
+[2024.12.20-06.43.40:025][649]AssetCheck: Error: [AssetLog] C:\Unreal\Content\ODH\IMC_.uasset: A mapping cannot have an empty input action!
+[2024.12.20-06.43.44:599][902]LogSlate: Window 'Message Log' being destroyed
+[2024.12.20-06.43.44:603][902]LogSlate: Window 'Message Log' being destroyed
+[2024.12.20-06.43.48:617][143]LogSlate: Window 'IMC_' being destroyed
+[2024.12.20-06.43.48:621][143]LogSlate: Window 'IMC_' being destroyed
+[2024.12.20-06.44.16:273][800]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ODH/BP_PLayer.BP_PLayer
+[2024.12.20-06.44.16:274][800]LogChaosDD: Creating Chaos Debug Draw Scene for world World_0
+[2024.12.20-06.44.16:480][800]LogStreaming: Display: FlushAsyncLoading(488): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.20-06.44.25:257][251]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.12.20-06.45.38:900][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.20-06.45.38:905][533]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.117
+[2024.12.20-06.45.38:906][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ODH/BP_PLayer] ([2] browsable assets)...
+[2024.12.20-06.45.38:906][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODH/BP_PLayer]
+[2024.12.20-06.45.38:906][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODH/BP_PLayer" FILE="../../../../../../Unreal/Saved/Autosaves/Game/ODH/BP_PLayer_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.12.20-06.45.38:910][533]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ODH/BP_PLayer_Auto1
+[2024.12.20-06.45.38:910][533]LogSavePackage: Moving '../../../../../../Unreal/Saved/BP_PLayer_Auto14BFA0C5C4435A23471DC158220BD267B.tmp' to '../../../../../../Unreal/Saved/Autosaves/Game/ODH/BP_PLayer_Auto1.uasset'
+[2024.12.20-06.45.38:910][533]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.12.20-06.45.53:161][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 633.808228
+[2024.12.20-06.45.53:412][395]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-06.45.53:412][395]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 634.041687, Update Interval: 312.997223
+[2024.12.20-06.46.12:814][548]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.20-06.51.10:903][391]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 951.546143
+[2024.12.20-06.51.11:899][394]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-06.51.11:899][394]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 952.210266, Update Interval: 315.690796
+[2024.12.20-06.56.12:102][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.12.20-06.56.12:108][341]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.033
+[2024.12.20-06.56.12:108][341]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ODH/BP_PLayer] ([2] browsable assets)...
+[2024.12.20-06.56.12:108][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODH/BP_PLayer]
+[2024.12.20-06.56.12:108][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODH/BP_PLayer" FILE="../../../../../../Unreal/Saved/Autosaves/Game/ODH/BP_PLayer_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.12.20-06.56.12:113][341]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ODH/BP_PLayer_Auto2
+[2024.12.20-06.56.12:113][341]LogSavePackage: Moving '../../../../../../Unreal/Saved/BP_PLayer_Auto2E4B578294D33C7B79FAA4D960B848D01.tmp' to '../../../../../../Unreal/Saved/Autosaves/Game/ODH/BP_PLayer_Auto2.uasset'
+[2024.12.20-06.56.12:114][341]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.12.20-06.56.40:724][774]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1281.371704
+[2024.12.20-06.56.41:724][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-06.56.41:724][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1282.038452, Update Interval: 358.948944
+[2024.12.20-07.00.02:893][412]LogSlate: Took 0.006380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.12.20-07.01.09:487][997]LogEditorTransaction: Undo Add In Parameter
+[2024.12.20-07.02.59:951][800]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1660.600464
+[2024.12.20-07.03.00:951][803]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-07.03.00:952][803]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1661.268799, Update Interval: 329.962463
+[2024.12.20-07.06.12:550][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.12.20-07.06.12:553][878]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.033
+[2024.12.20-07.06.12:554][878]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ODH/BP_PLayer] ([2] browsable assets)...
+[2024.12.20-07.06.12:554][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODH/BP_PLayer]
+[2024.12.20-07.06.12:554][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODH/BP_PLayer" FILE="../../../../../../Unreal/Saved/Autosaves/Game/ODH/BP_PLayer_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.12.20-07.06.12:560][878]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ODH/BP_PLayer_Auto3
+[2024.12.20-07.06.12:560][878]LogSavePackage: Moving '../../../../../../Unreal/Saved/BP_PLayer_Auto305676B7747E912065EB75199BE86E78D.tmp' to '../../../../../../Unreal/Saved/Autosaves/Game/ODH/BP_PLayer_Auto3.uasset'
+[2024.12.20-07.06.12:561][878]LogFileHelpers: Auto-saving content packages took 0.008
+[2024.12.20-07.09.09:708][923]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2030.354004
+[2024.12.20-07.09.10:709][926]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-07.09.10:709][926]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2031.020996, Update Interval: 359.360931
+[2024.12.20-07.09.15:741][ 59]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2024.12.20-07.09.15:741][ 59]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2024.12.20-07.09.15:744][ 59]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Temp/Untitled_1.Untitled_1:PersistentLevel.Actor_0
+[2024.12.20-07.09.15:744][ 59]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Temp/Untitled_1.Untitled_1:PersistentLevel.Actor_0
+[2024.12.20-07.09.16:859][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.12.20-07.09.16:861][124]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2024.12.20-07.09.16:865][124]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2024.12.20-07.09.16:865][124]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2024.12.20-07.09.16:871][124]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Temp/Untitled_1.Untitled_1:PersistentLevel.Actor_UAID_D843AE010CFAB43A02_1550120423
+[2024.12.20-07.09.16:871][124]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Temp/Untitled_1.Untitled_1:PersistentLevel.Actor_UAID_D843AE010CFAB43A02_1550120423
+[2024.12.20-07.09.19:452][277]Cmd: TRANSACTION UNDO
+[2024.12.20-07.09.19:452][277]LogEditorTransaction: Undo Place Objects
+[2024.12.20-07.09.21:250][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.12.20-07.09.21:250][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.12.20-07.09.21:251][363]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_0
+[2024.12.20-07.09.21:252][363]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_0
+[2024.12.20-07.09.21:255][363]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2024.12.20-07.09.22:052][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.12.20-07.09.22:055][403]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2024.12.20-07.09.22:059][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.12.20-07.09.22:059][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.12.20-07.09.22:062][403]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_D843AE010CFAB43A02_1555314424
+[2024.12.20-07.09.22:062][403]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_D843AE010CFAB43A02_1555314424
+[2024.12.20-07.09.22:219][405]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2024.12.20-07.09.29:313][828]Cmd: TRANSACTION UNDO
+[2024.12.20-07.09.29:313][828]LogEditorTransaction: Undo Move Elements
+[2024.12.20-07.09.29:925][847]Cmd: TRANSACTION UNDO
+[2024.12.20-07.09.29:925][847]LogEditorTransaction: Undo Place Objects
+[2024.12.20-07.09.34:668][126]LogWorldPartition: Actor /Temp/Untitled_1.Untitled_1:PersistentLevel.Actor_UAID_D843AE010CFAB43A02_1550120423 is unreachable without properly detaching object /Temp/__ExternalActors__/Untitled_1/8/YZ/UJ2IAZ85WTG35FQNPFI6PC.PackageMetaData in its package
+[2024.12.20-07.09.34:670][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.12.20-07.09.44:814][126]LogSlate: Window 'Save Content' being destroyed
+[2024.12.20-07.09.44:846][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.12.20-07.09.46:030][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.20-07.09.46:125][179]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ODH/BP_PLayer] ([2] browsable assets)...
+[2024.12.20-07.09.46:125][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODH/BP_PLayer]
+[2024.12.20-07.09.46:125][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODH/BP_PLayer" FILE="../../../../../../Unreal/Content/ODH/BP_PLayer.uasset" SILENT=true
+[2024.12.20-07.09.46:131][179]LogSavePackage: Moving output files for package: /Game/ODH/BP_PLayer
+[2024.12.20-07.09.46:131][179]LogSavePackage: Moving '../../../../../../Unreal/Saved/BP_PLayer3D6181474AC04F16BC8DA2AB761180DA.tmp' to '../../../../../../Unreal/Content/ODH/BP_PLayer.uasset'
+[2024.12.20-07.09.46:139][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.465 ms (total: 517.332 ms)
+[2024.12.20-07.09.46:260][179]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.20-07.09.46:260][179]LogContentValidation: Enabled validators:
+[2024.12.20-07.09.46:260][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.20-07.09.46:260][179]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.20-07.09.46:260][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.20-07.09.46:260][179]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.20-07.09.46:260][179]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.20-07.09.46:260][179]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.20-07.09.46:261][179]AssetCheck: /Game/ODH/BP_PLayer Validating asset
+[2024.12.20-07.09.46:833][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.12.20-07.09.47:973][212]LogSlate: Window 'Save Content' being destroyed
+[2024.12.20-07.09.48:105][212]LogStreaming: Display: FlushAsyncLoading(679): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.20-07.09.48:111][212]LogChaosDD: Creating Chaos Debug Draw Scene for world ODHLevel
+[2024.12.20-07.09.48:113][212]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ODH/ODHLevel.ODHLevel
+[2024.12.20-07.09.48:113][212]Cmd: MAP LOAD FILE="../../../../../../Unreal/Content/ODH/ODHLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.20-07.09.48:176][212]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.20-07.09.48:176][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.20-07.09.48:176][212]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2024.12.20-07.09.48:203][212]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.20-07.09.48:225][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.12.20-07.09.48:232][212]LogWorld: UWorld::CleanupWorld for ODHLevel, bSessionEnded=true, bCleanupResources=true
+[2024.12.20-07.09.48:232][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.20-07.09.48:257][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.20-07.09.48:282][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.12.20-07.09.48:285][212]LogAudio: Display: Audio Device (ID: 1) registered with world 'ODHLevel'.
+[2024.12.20-07.09.48:285][212]LogChaosDD: Creating Chaos Debug Draw Scene for world ODHLevel
+[2024.12.20-07.09.48:299][212]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.20-07.09.48:322][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.20-07.09.48:338][212]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.20-07.09.48:338][212]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2024.12.20-07.09.51:006][357]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.12.20-07.09.51:006][357]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.12.20-07.09.51:006][357]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ODH/ODHLevel.ODHLevel:PersistentLevel.StaticMeshActor_1
+[2024.12.20-07.09.51:007][357]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ODH/ODHLevel.ODHLevel:PersistentLevel.StaticMeshActor_1
+[2024.12.20-07.09.51:565][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.12.20-07.09.51:567][387]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2024.12.20-07.09.51:571][387]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.12.20-07.09.51:571][387]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.12.20-07.09.51:573][387]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ODH/ODHLevel.ODHLevel:PersistentLevel.StaticMeshActor_2
+[2024.12.20-07.09.51:573][387]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/ODH/ODHLevel.ODHLevel:PersistentLevel.StaticMeshActor_2
+[2024.12.20-07.16.02:428][816]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2443.074219
+[2024.12.20-07.16.02:661][830]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-07.16.02:661][830]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2443.290039, Update Interval: 310.534393
+[2024.12.20-07.19.49:009][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.12.20-07.19.51:244][225]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.20-07.19.54:287][402]Cmd: DELETE
+[2024.12.20-07.19.54:287][402]Cmd: ACTOR DELETE
+[2024.12.20-07.19.54:295][402]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.20-07.19.54:319][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.20-07.19.54:323][402]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2024.12.20-07.20.19:466][850]LogStreaming: Display: FlushAsyncLoading(681): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.20-07.20.37:316][871]LogChaosDD: Creating Chaos Debug Draw Scene for world World_3
+[2024.12.20-07.21.16:741][150]LogEditorTransaction: Undo Modify Component Scale
+[2024.12.20-07.21.25:860][663]LogEditorTransaction: Undo Modify Component Scale
+[2024.12.20-07.21.43:193][668]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2783.847168
+[2024.12.20-07.21.43:427][682]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-07.21.43:427][682]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2784.065918, Update Interval: 359.274872
+[2024.12.20-07.21.47:421][912]LogEditorTransaction: Undo Modify Component Scale
+[2024.12.20-07.22.10:649][196]LogEditorTransaction: Undo Modify Component Scale
+[2024.12.20-07.22.15:802][478]LogEditorTransaction: Undo Modify Component Scale
+[2024.12.20-07.22.18:379][613]LogEditorTransaction: Undo Modify Component Scale
+[2024.12.20-07.22.28:700][219]LogEditorTransaction: Undo Set Vector Property
+[2024.12.20-07.22.31:395][357]LogEditorTransaction: Undo Set Vector Property
+[2024.12.20-07.22.43:620][ 49]LogEditorTransaction: Undo Set Vector Property
+[2024.12.20-07.22.46:283][181]LogEditorTransaction: Undo Set Vector Property
+[2024.12.20-07.22.56:980][789]LogEditorTransaction: Undo Set Vector Property
+[2024.12.20-07.23.12:877][674]LogEditorTransaction: Undo Set Vector Property
+[2024.12.20-07.23.31:484][721]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ODH/BP_PLayer.BP_PLayer_C
+[2024.12.20-07.23.31:484][721]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ODH/BP_PLayer.BP_PLayer_C
+[2024.12.20-07.23.31:487][721]LogActorFactory: Actor Factory spawned Blueprint /Game/ODH/BP_PLayer.BP_PLayer as actor: BP_PLayer_C /Game/ODH/ODHLevel.ODHLevel:PersistentLevel.BP_PLayer_C_0
+[2024.12.20-07.23.31:489][721]LogActorFactory: Actor Factory spawned Blueprint /Game/ODH/BP_PLayer.BP_PLayer as actor: BP_PLayer_C /Game/ODH/ODHLevel.ODHLevel:PersistentLevel.BP_PLayer_C_0
+[2024.12.20-07.23.31:702][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.12.20-07.23.31:717][729]LogEditorActor: Deleted 0 Actors (0.060 secs)
+[2024.12.20-07.23.31:722][729]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ODH/BP_PLayer.BP_PLayer_C
+[2024.12.20-07.23.31:722][729]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ODH/BP_PLayer.BP_PLayer_C
+[2024.12.20-07.23.31:726][729]LogActorFactory: Actor Factory spawned Blueprint /Game/ODH/BP_PLayer.BP_PLayer as actor: BP_PLayer_C /Game/ODH/ODHLevel.ODHLevel:PersistentLevel.BP_PLayer_C_1
+[2024.12.20-07.23.31:729][729]LogActorFactory: Actor Factory spawned Blueprint /Game/ODH/BP_PLayer.BP_PLayer as actor: BP_PLayer_C /Game/ODH/ODHLevel.ODHLevel:PersistentLevel.BP_PLayer_C_1
+[2024.12.20-07.23.33:921][853]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.20-07.23.33:930][853]LogPlayLevel: [PlayLevel] Compiling BP_PLayer before play...
+[2024.12.20-07.23.33:934][853]LogBlueprint: Error: [AssetLog] C:\Unreal\Content\ODH\BP_PLayer.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2024.12.20-07.23.33:934][853]LogBlueprint: Error: [AssetLog] C:\Unreal\Content\ODH\BP_PLayer.uasset: [Compiler] This blueprint (self) is not a Controller, therefore ' Target ' must have a connection.
+[2024.12.20-07.23.34:053][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.12.20-07.23.34:055][853]LogPlayLevel: PlayLevel: Blueprint regeneration took 126 ms (1 blueprints)
+[2024.12.20-07.23.34:055][853]BlueprintLog: Warning: Blueprint failed to compile:  BP_PLayer
+[2024.12.20-07.23.37:448][853]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.12.20-07.23.42:470][119]LogSlate: Window 'Message Log' being destroyed
+[2024.12.20-07.23.42:473][119]LogSlate: Window 'Message Log' being destroyed
+[2024.12.20-07.23.47:023][329]LogEditorTransaction: Undo Place Objects
+[2024.12.20-07.23.47:703][351]LogEditorTransaction: Undo Modify Component(s)
+[2024.12.20-07.23.48:280][376]LogEditorTransaction: Undo Set Vector Property
+[2024.12.20-07.23.48:806][398]LogEditorTransaction: Undo Set Vector Property
+[2024.12.20-07.24.27:344][594]LogEditorTransaction: Undo Remove Components
+[2024.12.20-07.24.38:702][231]LogBlueprint: Error: [AssetLog] C:\Unreal\Content\ODH\BP_PLayer.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2024.12.20-07.24.38:703][231]LogBlueprint: Error: [AssetLog] C:\Unreal\Content\ODH\BP_PLayer.uasset: [Compiler] This blueprint (self) is not a Controller, therefore ' Target ' must have a connection.
+[2024.12.20-07.24.38:756][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.12.20-07.25.09:610][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.12.20-07.25.09:617][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODH/ODHLevel" FILE="../../../../../../Unreal/Saved/Autosaves/Game/ODH/ODHLevel_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.12.20-07.25.09:623][ 20]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ODH/ODHLevel_Auto4
+[2024.12.20-07.25.09:623][ 20]LogSavePackage: Moving '../../../../../../Unreal/Saved/ODHLevel_Auto4AD0B55BA4E4013FCD4BF11A58C3A3350.tmp' to '../../../../../../Unreal/Saved/Autosaves/Game/ODH/ODHLevel_Auto4.umap'
+[2024.12.20-07.25.09:627][ 20]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ODH/ODHLevel' took 0.044
+[2024.12.20-07.25.09:627][ 20]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2024.12.20-07.25.09:627][ 20]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ODH/BP_PLayer] ([2] browsable assets)...
+[2024.12.20-07.25.09:669][ 20]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ODH/BP_PLayer.BP_PLayer]
+[2024.12.20-07.25.09:669][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODH/BP_PLayer]
+[2024.12.20-07.25.09:669][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODH/BP_PLayer" FILE="../../../../../../Unreal/Saved/Autosaves/Game/ODH/BP_PLayer_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.12.20-07.25.09:678][ 20]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ODH/BP_PLayer_Auto4
+[2024.12.20-07.25.09:678][ 20]LogSavePackage: Moving '../../../../../../Unreal/Saved/BP_PLayer_Auto472354E9440B15232006A06AC14B971E7.tmp' to '../../../../../../Unreal/Saved/Autosaves/Game/ODH/BP_PLayer_Auto4.uasset'
+[2024.12.20-07.25.09:679][ 20]LogFileHelpers: Auto-saving content packages took 0.052
+[2024.12.20-07.26.16:766][ 56]LogEditorTransaction: Undo Remove Components
+[2024.12.20-07.28.27:938][566]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3188.590332
+[2024.12.20-07.28.28:188][581]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-07.28.28:188][581]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3188.823486, Update Interval: 349.487610
+[2024.12.20-07.29.05:268][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.12.20-07.30.06:356][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.20-07.31.08:827][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.20-07.32.10:178][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.20-07.33.11:526][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.20-07.34.12:778][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.12.20-07.35.01:528][ 61]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3582.184570
+[2024.12.20-07.35.02:507][ 64]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-07.35.02:507][ 64]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3582.829590, Update Interval: 347.731567
+[2024.12.20-07.35.10:019][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.20-07.35.10:022][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODH/ODHLevel" FILE="../../../../../../Unreal/Saved/Autosaves/Game/ODH/ODHLevel_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.12.20-07.35.10:028][ 86]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ODH/ODHLevel_Auto5
+[2024.12.20-07.35.10:028][ 86]LogSavePackage: Moving '../../../../../../Unreal/Saved/ODHLevel_Auto500EFF93B48DC3E7B4A55DAADBD615384.tmp' to '../../../../../../Unreal/Saved/Autosaves/Game/ODH/ODHLevel_Auto5.umap'
+[2024.12.20-07.35.10:029][ 86]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ODH/ODHLevel' took 0.038
+[2024.12.20-07.35.10:029][ 86]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2024.12.20-07.35.10:030][ 86]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ODH/BP_PLayer] ([2] browsable assets)...
+[2024.12.20-07.35.10:252][ 86]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ODH/BP_PLayer.BP_PLayer]
+[2024.12.20-07.35.10:254][ 86]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODH/BP_PLayer]
+[2024.12.20-07.35.10:254][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODH/BP_PLayer" FILE="../../../../../../Unreal/Saved/Autosaves/Game/ODH/BP_PLayer_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.12.20-07.35.10:263][ 86]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ODH/BP_PLayer_Auto5
+[2024.12.20-07.35.10:263][ 86]LogSavePackage: Moving '../../../../../../Unreal/Saved/BP_PLayer_Auto5B90C2A94416695DE5EC0BBA55E46EE14.tmp' to '../../../../../../Unreal/Saved/Autosaves/Game/ODH/BP_PLayer_Auto5.uasset'
+[2024.12.20-07.35.10:264][ 86]LogFileHelpers: Auto-saving content packages took 0.234
+[2024.12.20-07.35.15:998][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.12.20-07.36.17:345][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.20-07.37.14:472][576]LogDerivedDataCache: C:/Users/MSI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.20-07.37.18:547][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.20-07.38.19:891][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.20-07.39.21:235][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.12.20-07.40.22:577][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.20-07.41.23:770][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.20-07.41.33:760][538]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3974.417236
+[2024.12.20-07.41.34:762][541]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-07.41.34:762][541]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3975.085205, Update Interval: 350.785858
+[2024.12.20-07.42.25:120][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.20-07.43.26:465][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.12.20-07.44.27:809][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.12.20-07.45.29:153][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.12.20-07.46.30:501][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.12.20-07.46.40:358][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.20-07.46.40:458][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODH/ODHLevel" FILE="../../../../../../Unreal/Content/ODH/ODHLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.20-07.46.40:510][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.20-07.46.40:518][498]LogSavePackage: Moving output files for package: /Game/ODH/ODHLevel
+[2024.12.20-07.46.40:518][498]LogSavePackage: Moving '../../../../../../Unreal/Saved/ODHLevel72F2818B43D84C5D8149B1BA9BD95981.tmp' to '../../../../../../Unreal/Content/ODH/ODHLevel.umap'
+[2024.12.20-07.46.40:535][498]LogFileHelpers: Saving map 'ODHLevel' took 0.077
+[2024.12.20-07.46.40:542][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.902 ms (total: 701.234 ms)
+[2024.12.20-07.46.40:673][498]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.20-07.46.40:673][498]LogContentValidation: Enabled validators:
+[2024.12.20-07.46.40:673][498]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.20-07.46.40:673][498]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.20-07.46.40:673][498]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.20-07.46.40:673][498]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.20-07.46.40:673][498]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.20-07.46.40:673][498]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.20-07.46.40:673][498]AssetCheck: /Game/ODH/ODHLevel Validating asset
+[2024.12.20-07.46.41:786][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.20-07.46.41:886][559]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ODH/BP_PLayer] ([2] browsable assets)...
+[2024.12.20-07.46.41:886][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/ODH/BP_PLayer]
+[2024.12.20-07.46.41:886][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODH/BP_PLayer" FILE="../../../../../../Unreal/Content/ODH/BP_PLayer.uasset" SILENT=true
+[2024.12.20-07.46.41:896][559]LogSavePackage: Moving output files for package: /Game/ODH/BP_PLayer
+[2024.12.20-07.46.41:896][559]LogSavePackage: Moving '../../../../../../Unreal/Saved/BP_PLayerC987708041B0BA7E8196989D928F8DB0.tmp' to '../../../../../../Unreal/Content/ODH/BP_PLayer.uasset'
+[2024.12.20-07.46.41:904][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.647 ms (total: 819.882 ms)
+[2024.12.20-07.46.42:032][559]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.20-07.46.42:032][559]LogContentValidation: Enabled validators:
+[2024.12.20-07.46.42:032][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.20-07.46.42:032][559]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.20-07.46.42:032][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.20-07.46.42:032][559]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.20-07.46.42:032][559]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.20-07.46.42:032][559]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.20-07.46.42:033][559]AssetCheck: /Game/ODH/BP_PLayer Validating asset
+[2024.12.20-07.47.31:676][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.12.20-07.48.09:009][747]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4369.666504
+[2024.12.20-07.48.10:011][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-07.48.10:011][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4370.333984, Update Interval: 324.152344
+[2024.12.20-07.48.35:038][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.20-07.49.36:386][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.20-07.50.37:734][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.12.20-07.51.39:082][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.20-07.52.40:420][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.20-07.53.41:760][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.20-07.54.20:422][861]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4741.076660
+[2024.12.20-07.54.21:423][864]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-07.54.21:423][864]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4741.743164, Update Interval: 342.829681
+[2024.12.20-07.54.43:108][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.20-07.55.44:457][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.12.20-07.56.45:801][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.20-07.57.47:150][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.12.20-07.58.48:498][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.20-07.59.49:846][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.20-08.00.51:202][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.20-08.00.54:522][ 43]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5135.178223
+[2024.12.20-08.00.55:522][ 46]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-08.00.55:522][ 46]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5135.844727, Update Interval: 306.267883
+[2024.12.20-08.01.52:550][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.12.20-08.02.53:890][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.20-08.03.55:246][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.12.20-08.04.56:594][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.20-08.05.57:940][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.20-08.06.40:938][ 82]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5481.598145
+[2024.12.20-08.06.41:938][ 85]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-08.06.41:938][ 85]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5482.265625, Update Interval: 324.696198
+[2024.12.20-08.06.59:291][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.12.20-08.08.00:637][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.20-08.09.01:980][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.12.20-08.10.03:328][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.12.20-08.11.04:673][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.20-08.12.06:019][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.20-08.12.49:680][188]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5850.345703
+[2024.12.20-08.12.50:681][191]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-08.12.50:682][191]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5851.012207, Update Interval: 341.432526
+[2024.12.20-08.13.07:365][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.12.20-08.14.08:706][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.12.20-08.15.10:054][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.20-08.16.11:397][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.20-08.17.12:747][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.12.20-08.18.14:096][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.12.20-08.19.15:444][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.20-08.19.18:098][353]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6238.762695
+[2024.12.20-08.19.19:098][356]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-08.19.19:098][356]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6239.429199, Update Interval: 323.004242
+[2024.12.20-08.20.16:794][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.20-08.21.18:143][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.20-08.22.19:494][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.20-08.23.20:842][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.20-08.24.22:194][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.12.20-08.25.18:860][435]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6599.523926
+[2024.12.20-08.25.19:860][438]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-08.25.19:860][438]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6600.190430, Update Interval: 313.204132
+[2024.12.20-08.25.23:541][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.20-08.26.24:889][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.20-08.27.26:237][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.20-08.28.27:590][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.20-08.29.28:934][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.12.20-08.30.30:280][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.20-08.31.21:943][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6962.606934
+[2024.12.20-08.31.22:946][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-08.31.22:946][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6963.274902, Update Interval: 346.200745
+[2024.12.20-08.31.31:626][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.20-08.32.32:976][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.12.20-08.33.34:327][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.12.20-08.33.46:315][957]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: b90...de9
+[2024.12.20-08.33.46:315][957]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.7 RefreshExpires: 1.553e+07
+[2024.12.20-08.33.47:315][960]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: b90...de9 Access[Expires: 2024.12.20-10.33.47 Remaining: 7199.99] Refresh[Expires: 2025-06-18T01:40:22.737Z Remaining: 15527194.74] State: Valid
+[2024.12.20-08.34.35:674][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.12.20-08.35.37:021][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.12.20-08.36.38:373][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.12.20-08.37.14:473][582]LogDerivedDataCache: C:/Users/MSI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.12.20-08.37.39:717][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.20-08.37.54:702][702]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7355.361328
+[2024.12.20-08.37.55:702][705]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-08.37.55:702][705]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7356.028809, Update Interval: 341.555237
+[2024.12.20-08.38.41:058][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.12.20-08.39.42:403][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.12.20-08.40.43:752][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.12.20-08.41.45:101][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.20-08.42.46:452][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.20-08.43.47:799][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.12.20-08.44.19:788][857]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7740.450195
+[2024.12.20-08.44.20:788][860]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-08.44.20:788][860]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7741.117188, Update Interval: 349.579163
+[2024.12.20-08.44.49:142][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.20-08.45.50:496][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.12.20-08.46.51:852][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.12.20-08.47.53:189][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.12.20-08.48.54:535][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.12.20-08.49.55:875][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.12.20-08.50.46:870][ 18]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8127.531738
+[2024.12.20-08.50.47:870][ 21]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-08.50.47:871][ 21]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8128.198242, Update Interval: 332.910553
+[2024.12.20-08.50.57:218][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.12.20-08.51.58:566][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.12.20-08.52.59:918][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.20-08.54.01:269][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.12.20-08.55.02:607][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.12.20-08.56.03:967][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.12.20-08.56.57:288][129]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8497.951172
+[2024.12.20-08.56.58:288][132]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-08.56.58:288][132]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8498.618164, Update Interval: 330.081482
+[2024.12.20-08.57.05:306][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.12.20-08.57.33:487][459]LogSlate: Window 'BP_PLayer' being destroyed
+[2024.12.20-08.57.33:495][459]LogSlate: Window 'BP_PLayer' being destroyed
+[2024.12.20-08.57.33:508][459]LogWorld: Warning: UWorld::CleanupWorld called on a world that has begun play, missing call to EndPlay (World_0)
+[2024.12.20-08.57.33:508][459]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.20-08.57.33:508][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.20-08.57.33:673][459]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2024.12.20-08.57.38:507][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.20-08.57.38:600][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ODH/ODHLevel" FILE="../../../../../../Unreal/Content/ODH/ODHLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.12.20-08.57.38:653][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.12.20-08.57.38:664][747]LogSavePackage: Moving output files for package: /Game/ODH/ODHLevel
+[2024.12.20-08.57.38:664][747]LogSavePackage: Moving '../../../../../../Unreal/Saved/ODHLevel313E5F614F90A96215F836B5A74CE417.tmp' to '../../../../../../Unreal/Content/ODH/ODHLevel.umap'
+[2024.12.20-08.57.38:682][747]LogFileHelpers: Saving map 'ODHLevel' took 0.083
+[2024.12.20-08.57.38:690][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 182.949 ms (total: 1.00 sec)
+[2024.12.20-08.57.38:818][747]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.20-08.57.38:818][747]LogContentValidation: Enabled validators:
+[2024.12.20-08.57.38:818][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.20-08.57.38:818][747]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.20-08.57.38:818][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.20-08.57.38:818][747]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.20-08.57.38:818][747]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.20-08.57.38:818][747]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.20-08.57.38:818][747]AssetCheck: /Game/ODH/ODHLevel Validating asset
+[2024.12.20-08.57.42:062][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.12.20-08.57.42:130][940]LogStall: Shutdown...
+[2024.12.20-08.57.42:130][940]LogStall: Shutdown complete.
+[2024.12.20-08.57.42:188][940]LogSlate: Window 'DBStars - Unreal Editor' being destroyed
+[2024.12.20-08.57.42:365][940]Cmd: QUIT_EDITOR
+[2024.12.20-08.57.42:365][941]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.12.20-08.57.42:369][941]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.12.20-08.57.42:369][941]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.12.20-08.57.42:369][941]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.12.20-08.57.42:370][941]LogWorld: UWorld::CleanupWorld for ODHLevel, bSessionEnded=true, bCleanupResources=true
+[2024.12.20-08.57.42:371][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.20-08.57.42:386][941]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.12.20-08.57.42:387][941]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.12.20-08.57.42:391][941]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.20-08.57.42:391][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.20-08.57.42:395][941]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.20-08.57.42:395][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.20-08.57.42:398][941]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.20-08.57.42:398][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.20-08.57.42:402][941]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.12.20-08.57.42:410][941]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.12.20-08.57.42:410][941]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.12.20-08.57.42:410][941]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.12.20-08.57.42:411][941]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.12.20-08.57.42:411][941]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.12.20-08.57.42:411][941]LogAudio: Display: Audio Device unregistered from world 'ODHLevel'.
+[2024.12.20-08.57.42:411][941]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.12.20-08.57.42:411][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.20-08.57.42:414][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.20-08.57.42:433][941]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.12.20-08.57.42:433][941]LogAudio: Display: Audio Device Manager Shutdown
+[2024.12.20-08.57.42:436][941]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2024.12.20-08.57.42:439][941]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.12.20-08.57.42:439][941]LogExit: Preparing to exit.
+[2024.12.20-08.57.42:479][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.20-08.57.42:488][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:488][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:490][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:491][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:491][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:491][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:491][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:491][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:491][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:491][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:491][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:491][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:491][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:491][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:491][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:491][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:491][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:491][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:491][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:492][941]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.42:492][941]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.20-08.57.43:549][941]LogEditorDataStorage: Deinitializing
+[2024.12.20-08.57.43:665][941]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.12.20-08.57.43:708][941]LogExit: Editor shut down
+[2024.12.20-08.57.43:713][941]LogExit: Transaction tracking system shut down
+[2024.12.20-08.57.44:057][941]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 1.
+[2024.12.20-08.57.44:098][941]LogExit: Object subsystem successfully closed.
+[2024.12.20-08.57.44:145][941]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.12.20-08.57.44:318][941]LogMemoryProfiler: Shutdown
+[2024.12.20-08.57.44:318][941]LogNetworkingProfiler: Shutdown
+[2024.12.20-08.57.44:318][941]LoadingProfiler: Shutdown
+[2024.12.20-08.57.44:318][941]LogTimingProfiler: Shutdown
+[2024.12.20-08.57.44:782][941]LogChaosDD: Chaos Debug Draw Shutdown
+[2024.12.20-08.57.44:798][941]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.12.20-08.57.44:798][941]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B158D5730-407F-D935-EBEB-8BAB53EDFA6B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=5f88c0d240a5872ade32109390ed7700%7Cb90105ade3d4446a941a5fddfaa37de9%7Ce0f59e5c-a45b-4ea0-a6d4-3e2fe471183b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.12.20-08.57.45:837][941]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2024.12.20-08.57.45:837][941]RenderDocPlugin: plugin has been unloaded.
+[2024.12.20-08.57.45:845][941]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.12.20-08.57.45:845][941]LogNFORDenoise: NFORDenoise function shutting down
+[2024.12.20-08.57.45:849][941]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2024.12.20-08.57.45:849][941]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2024.12.20-08.57.45:849][941]LogPakFile: Destroying PakPlatformFile
+[2024.12.20-08.57.46:456][941]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.12.20-08.57.46:503][941]LogExit: Exiting.
+[2024.12.20-08.57.46:524][941]Log file closed, 12/20/24 17:57:46
