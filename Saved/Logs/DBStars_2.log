@@ -1394,3 +1394,62 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.19-08.47.39:676][344]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2096.002930
 [2024.12.19-08.47.40:676][347]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.12.19-08.47.40:676][347]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2096.670410, Update Interval: 313.066803
+[2024.12.19-08.53.41:725][430]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2458.053467
+[2024.12.19-08.53.42:724][433]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.19-08.53.42:724][433]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2458.719971, Update Interval: 302.450012
+[2024.12.19-08.59.38:451][500]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2814.784668
+[2024.12.19-08.59.39:451][503]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.19-08.59.39:451][503]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2815.451172, Update Interval: 330.057678
+[2024.12.19-09.04.30:003][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.12.19-09.04.30:065][375]LogStall: Shutdown...
+[2024.12.19-09.04.30:065][375]LogStall: Shutdown complete.
+[2024.12.19-09.04.30:127][375]LogSlate: Window 'DBStars - Unreal Editor' being destroyed
+[2024.12.19-09.04.30:240][375]Cmd: QUIT_EDITOR
+[2024.12.19-09.04.30:240][376]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.12.19-09.04.30:244][376]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.12.19-09.04.30:244][376]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.12.19-09.04.30:244][376]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.12.19-09.04.30:261][376]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.19-09.04.30:262][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.19-09.04.30:262][376]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2024.12.19-09.04.30:278][376]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.12.19-09.04.30:279][376]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.12.19-09.04.30:281][376]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.12.19-09.04.30:283][376]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.12.19-09.04.30:283][376]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.12.19-09.04.30:283][376]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.12.19-09.04.30:284][376]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.12.19-09.04.30:284][376]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.12.19-09.04.30:284][376]LogAudio: Display: Audio Device unregistered from world 'Untitled_1'.
+[2024.12.19-09.04.30:284][376]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.12.19-09.04.30:284][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.19-09.04.30:287][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.19-09.04.30:299][376]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.12.19-09.04.30:299][376]LogAudio: Display: Audio Device Manager Shutdown
+[2024.12.19-09.04.30:302][376]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2024.12.19-09.04.30:305][376]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.12.19-09.04.30:305][376]LogExit: Preparing to exit.
+[2024.12.19-09.04.30:354][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.12.19-09.04.30:914][376]LogEditorDataStorage: Deinitializing
+[2024.12.19-09.04.31:044][376]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.12.19-09.04.31:058][376]LogExit: Editor shut down
+[2024.12.19-09.04.31:060][376]LogExit: Transaction tracking system shut down
+[2024.12.19-09.04.31:176][376]LogExit: Object subsystem successfully closed.
+[2024.12.19-09.04.31:217][376]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.12.19-09.04.31:847][376]LogMemoryProfiler: Shutdown
+[2024.12.19-09.04.31:847][376]LogNetworkingProfiler: Shutdown
+[2024.12.19-09.04.31:847][376]LoadingProfiler: Shutdown
+[2024.12.19-09.04.31:847][376]LogTimingProfiler: Shutdown
+[2024.12.19-09.04.32:285][376]LogChaosDD: Chaos Debug Draw Shutdown
+[2024.12.19-09.04.32:293][376]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.12.19-09.04.32:293][376]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4C739424-4B63-1750-B292-A3A54789A12A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=d2200aac4038b94f3ca2cc814cead005%7Cb5f774a649174339a047d8c05429d6a9%7C2254d094-8c0d-440f-9ffb-b4bf94804308&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.12.19-09.04.33:340][376]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2024.12.19-09.04.33:341][376]RenderDocPlugin: plugin has been unloaded.
+[2024.12.19-09.04.33:349][376]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.12.19-09.04.33:349][376]LogNFORDenoise: NFORDenoise function shutting down
+[2024.12.19-09.04.33:351][376]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2024.12.19-09.04.33:351][376]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2024.12.19-09.04.33:351][376]LogPakFile: Destroying PakPlatformFile
+[2024.12.19-09.04.33:818][376]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.12.19-09.04.33:898][376]LogExit: Exiting.
+[2024.12.19-09.04.33:928][376]Log file closed, 12/19/24 18:04:33
