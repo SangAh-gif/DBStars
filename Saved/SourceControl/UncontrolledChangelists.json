@@ -5,9 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Unreal/Content/ODH/ODHLevel.umap",
 				"C:/Unreal/Content/ODH/IA_MouseMove.uasset",
-				"C:/Unreal/Content/ODH/BP_Player.uasset",
+				"C:/Unreal/Content/ODH/BP_PLayer.uasset",
 				"C:/Unreal/DBStars/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Unreal/DBStars/Content/SSA/SSALevel.umap",
 				"C:/Unreal/DBStars/Content/ODH/ODHLevel.umap"
