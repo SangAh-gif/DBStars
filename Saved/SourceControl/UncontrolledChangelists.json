@@ -5,15 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Unreal/DBStars/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Unreal/DBStars/Content/SSA/SSALevel.umap",
-				"C:/Unreal/DBStars/Content/ODH/ODHLevel.umap",
-				"C:/Unreal/DBStars/Content/SSA/BP_DBStarsGame.uasset",
-				"C:/Unreal/DBStars/Content/DBS_Main/DBSStarsMap.umap",
-				"C:/Unreal/DBStars/Content/DBS_Main/BP_DBStarsGame.uasset",
-				"C:/Unreal/DBStars/Content/DBS_Main/BP_DBStarsCharacter.uasset",
-				"C:/Unreal/DBStars/Content/SSA/BP_DBStarsCharacter.uasset",
-				"C:/Unreal/DBStars/Content/DBS_Main/DBStars.umap"
+				"C:/Unreal/DBStars/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
 	]
